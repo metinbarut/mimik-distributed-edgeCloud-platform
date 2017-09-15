@@ -30,4 +30,4 @@ mimik edgeSDK is availble for the following platfroms:
 
 ### Support or Contact
 
-Having trouble with using or installing edgeSDK or microservices? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with using or installing edgeSDK or microservices? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](support.sdk@mimik.com) and we’ll help you sort it out.
