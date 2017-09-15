@@ -5,12 +5,13 @@ mimik edgeSDK provide a JavaScript severless programming API for developers to d
 The following are some microservices that we developed for own purpose and could be used as an example for other developers learning how to use the proposed API.
 
 ### mSuperdrive microservice: 
+mSuperdrive microservice, provides API for media distribution use cases. By useing mSuperdrive we can permanently share any type of file or content on any node (edge or cloud node) with any other nodes on any type of network (Wi-Fi, LTE or 3G). You can also use this mocroservice to share file or any content with your friends who are registered with mimik as a user. mSuperdrive is using other microservices (e.g. BmBeam and mdrive) to provide some specific services. 
 
 ### mDrive microservice: 
-abstracts access to storage available on edge nodes and provides distributed file management via a popular API.
+mDrive microservice abstracts access to storage capability available on any edge node(s) and provides distributed file management via a popular API. The API of mDrivecould be compared with Google drive, DropBox, iCloud or some other cloud based "drive" products with this big diffrence that you can this microservice on the edge nodes and also teh cloud nodes.
 
 ### mBeam microservice: 
-beams content from a node to node(s) and/or to service(s), peer-to-peer, one-to-one or one-to-many
+mBeams contents from a node to a node and/or to service(s), peer-to-peer, one-to-one or one-to-many
 
 mimik edgeSDK is availble for the following platfroms:
 
