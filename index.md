@@ -16,7 +16,7 @@ mBeams contents from a node to a node and/or to service(s), peer-to-peer, one-to
 mimik edgeSDK is availble for the following platfroms:
 
 - Android
-- iOS
+- [iOS](https://github.com/mimikgit/edgeSDK-iOS)
 - Linux - Ubuntu
 - mac OS X
 - Windows 10
