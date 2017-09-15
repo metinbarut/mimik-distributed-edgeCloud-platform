@@ -1,3 +1,54 @@
+## Welcome to mimik microservices GitHub page:
+
+mimik edgeSDK provide a JavaScript severless programming API for developers to develop and deploy their own microservices. According to the industry most acknowledged definition, Microservice(s) is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
+
+The following are some microservices that we developed for own purpose and could be used as an example for other developers learning how to use the proposed API.
+
+### mSuperdrive microservice: 
+
+### mDrive microservice: 
+abstracts access to storage available on edge nodes and provides distributed file management via a popular API.
+
+### mBeam microservice: 
+beams content from a node to node(s) and/or to service(s), peer-to-peer, one-to-one or one-to-many
+
+mimik edgeSDK is availble for the following platfroms:
+
+- Android
+- iOS
+mac OS X
+Windows 
+Linux - Debian
+Linux - Raspbian
+Tizen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mimikgit/microservices/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
