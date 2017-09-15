@@ -15,12 +15,15 @@ mimik edgeSDK is available for variety of platforms. To learn more,  click on th
 - Linux - Raspbian
 - Tizen
 
+### JavaScript Serverless Programming API 
+
 mimik edgeSDK provide a JavaScript severless programming API for developers to develop and deploy their own microservices. According to the industry most acknowledged definition, Microservice(s) is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services. [see JS Serverless programming API](https://github.com/mimikgit/edgeMicroservices/wiki/Editing-How-to-use-mimik-serverless-JavaScript-programming-API)
 
 The following are some microservices that we developed for own purpose and could be used as an example for other developers learning how to use the proposed API.
 
 
 ***
+### Microservices
 
 
 #### mSuperdrive microservice: 
