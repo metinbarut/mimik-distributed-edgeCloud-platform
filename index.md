@@ -28,6 +28,7 @@ The following are some microservices that we developed for own purpose and could
 
 #### mSuperdrive microservice: 
 mSuperdrive microservice, provides API for media distribution use cases. By using mSuperdrive we can permanently share any type of file or content on any node (edge or cloud node) with any other nodes on any type of network (Wi-Fi, LTE or 3G). You can also use this microservice to share file or any content with your friends who are registered with mimik as a user. mSuperdrive is using other microservices (e.g. mBeam and mDrive) to provide some specific services. 
+[please check our mSuperdrive API to learn more](https://app.swaggerhub.com/apis/mimik/mSuperdrive/)
 
 #### mDrive microservice: 
 mDrive microservice abstracts access to storage capability available on any edge node(s) and provides distributed file management via a popular API. The API of mDrive could be compared with Google drive, Drobox, iCloud or some other cloud based "drive" products with this big difference that you can this microservice on the edge nodes and also the cloud nodes.
