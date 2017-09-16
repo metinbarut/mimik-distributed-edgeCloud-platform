@@ -1,6 +1,9 @@
 ## Welcome to mimik Edge Cloud Computing GitHub page:
 
 
+On this page you will find a brief description about our products and some useful link to download and learn about them. 
+
+
 #### edgeSDK
 It is an SDK for edge cloud computing with a collection of APIs that enable developers to turn computing devices (mobiles, tablets, PCs, wearables, IoT devices, etc.) into edge cloud servers and network them together.mimik edgeSDK provides discovery, connection and communication across edge nodes and a runtime environment for microservices.
 
