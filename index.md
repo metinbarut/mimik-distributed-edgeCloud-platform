@@ -36,13 +36,13 @@ mDrive microservice abstracts access to storage capability available on any edge
 
 #### mBeam microservice: 
 mBeam contents from a node to a node and/or to service(s), peer-to-peer, one-to-one or one-to-many
-
+[please check our mBeam API to learn more](https://app.swaggerhub.com/apis/mimik/mBeam/)
 
 ***
 
 
 ### Support or Contact
 
-Having trouble with using or installing edgeSDK or microservices? Check out our [documentation](https://github.com/mimikgit/edgeMicroservices/wiki/) or [contact support](support.sdk@mimik.com) and we’ll help you sort it out.
+Having trouble with using or installing edgeSDK or microservices? Check out our [documentation](https://github.com/mimikgit/edgeMicroservices/wiki/) or contact our SDKsupport team via support.sdk@mimik.com ; and we’ll help you sort it out.
 
 
