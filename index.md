@@ -5,7 +5,7 @@ On this page you will find some brief descriptions about our products and some u
 
 
 #### edgeSDK
-Mimic edgeSDK is an SDK for Edge Cloud Computing with a collection of APIs that enables developers to turn computing devices (mobiles, tablets, PCs, wearables, IoT devices, etc.) into edge cloud servers and network them together. mimik edgeSDK provides discovery, connection and communication across edge nodes and a runtime environment for edge microservices.
+mimik edgeSDK is an SDK for Edge Cloud Computing with a collection of APIs that enables developers to turn computing devices (mobiles, tablets, PCs, wearables, IoT devices, etc.) into edge cloud servers and network them together. mimik edgeSDK provides discovery, connection and communication across edge nodes and a runtime environment for edge microservices.
 
 mimik edgeSDK is available for variety of platforms. To learn more,  click on the following link:
 
