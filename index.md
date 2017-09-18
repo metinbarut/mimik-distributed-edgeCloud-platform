@@ -5,7 +5,7 @@ On this page you will find some brief descriptions about our products and some u
 
 
 #### edgeSDK
-mimik edgeSDK is an SDK for Edge Cloud Computing with a collection of APIs that enable developers to turn computing devices (mobiles, tablets, PCs, wearables, IoT devices, etc.) into edge cloud servers and network them together. mimik edgeSDK provides discovery, connection and communication across edge nodes and a runtime environment for edge microservices.
+mimik edgeSDK is an SDK for edge cloud computing platform with a collection of APIs that enable developers to turn computing devices (mobiles, tablets, PCs, wearables, IoT devices, etc.) into edge cloud servers and network them together. mimik edgeSDK provides discovery, connection and communication across edge nodes and a runtime environment for edge microservices.
 
 mimik edgeSDK is available for variety of platforms. To learn more,  click on the following link:
 
@@ -20,7 +20,7 @@ mimik edgeSDK is available for variety of platforms. To learn more,  click on th
 
 ### JavaScript Serverless Programming API 
 
-mimik edgeSDK provides a JavaScript programming API for developers to develop and deploy their microservices. According to the industry most acknowledged definition, Microservice(s) is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services. [see JS Serverless programming API](https://github.com/mimikgit/edgeMicroservices/wiki/Editing-How-to-use-mimik-serverless-JavaScript-programming-API)
+mimik edgeSDK provides a JavaScript programming API for developers to develop and deploy their microservices. According to the industry most acknowledged definition, Microservice(s) is an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services. [see JS Serverless programming API](https://github.com/mimikgit/mimik-edge-microservices/wiki/Editing-How-to-use-mimik-serverless-JavaScript-programming-API)
 
 The following are some microservices that we developed for designated purposes and could be used as an example by other developers to learn how to use the proposed API.
 
