@@ -39,7 +39,7 @@ mDrive microservice abstracts access to storage capability available on any edge
 [please check our mDrive API to learn more …](https://app.swaggerhub.com/apis/mimik/mDrive/)
 
 #### mBeam microservice: 
-mBeam shares the link of a content or file existing on an edge node with another edge node and/or service.
+mBeam shares the link of a content or file existing on an edge node with another edge node and/or service.mBeam is an opensource project that you can clone and use it. It also is a very simple and good example for developers who are new to mimik edge cloud computing platform. Here is the [link](https://github.com/mimikgit/mBeam) for mBeam repository.
 [please check our mBeam API to learn more …](https://app.swaggerhub.com/apis/mimik/mBeam/)
 
 ***
