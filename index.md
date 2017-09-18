@@ -47,6 +47,6 @@ mBeam shares the link of a content or file existing on an edge node with another
 
 ### Support or Contact
 
-Having question or trouble with using or installing mimik edgeSDK or microservices? Check out our [documentation](https://github.com/mimikgit/edgeMicroservices/wiki/) or contact our SDKsupport team via support.sdk@mimik.com ; and we’ll help you sort it out.
+Having question or trouble with using or installing mimik edgeSDK or microservices? Check out our [documentation](https://github.com/mimikgit/edgeMicroservices/wiki/) or contact our SDKsupport team via "support.sdk@mimik.com"; and we’ll help you sort it out.
 
 
