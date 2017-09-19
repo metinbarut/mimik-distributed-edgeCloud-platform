@@ -9,14 +9,14 @@ mimik edgeSDK is an SDK for edge cloud computing platform with a collection of A
 
 mimik edgeSDK is available for variety of platforms. To learn more,  click on the following link:
 
-- Android (5.0 and higher)
-- [iOS](https://github.com/mimikgit/edgeSDK-iOS)
-- Linux - Ubuntu (16.04 and higher)
+- Android (5.0+)
+- [iOS](https://github.com/mimikgit/edgeSDK-iOS) (9.0+)
+- Linux - Ubuntu (16.04+)
 - Linux - Debian
-- Linux - Raspbian (8.1 and higher)
-- mac OS X (El Capitan and higher)
-- Windows (7 and 10)
-- Tizen (3.0 and higher)
+- Linux - Raspbian (8.1+)
+- mac OS X (El Capitan+)
+- Windows (7+)
+- Tizen (3.0+)
 
 *Please note:* 
 *For links which are not active yet, please send your request to support.sdk@mimik.com in order to receive the edgeSDK.*
