@@ -1,3 +1,6 @@
+
+https://github.com/mimikgit/mimik-edge-microservices/images/mimik_logo_400x200_trans.png
+
 ## Welcome to mimik Edge Cloud Computing GitHub page:
 
 
