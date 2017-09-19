@@ -12,10 +12,10 @@ mimik edgeSDK is available for variety of platforms. To learn more,  click on th
 - Android 
 - [iOS](https://github.com/mimikgit/edgeSDK-iOS)
 - Linux - Ubuntu 
-- mac OS X 
-- Windows 10
 - Linux - Debian
 - Linux - Raspbian
+- mac OS X 
+- Windows 10
 - Tizen 
 
 *Please note:* 
