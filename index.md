@@ -85,4 +85,4 @@ Check out our website at mimik.com to learn more about our company
 
 
 *** 
-Copyright Notice. © 2017 mimik technology Inc. The information provided in this page is intended for informational purposes only and is subject to change without notice. Information may be changed or updated without notice. mimik may also make improvements and/or changes in the products specifications, APIs in this information at any time without notice.
+The information provided in this page is intended for informational purposes only and is subject to change without notice. Information may be changed or updated without notice. mimik may also make improvements and/or changes in the products specifications, APIs in this information at any time without notice.
