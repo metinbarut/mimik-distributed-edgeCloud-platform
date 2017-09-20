@@ -42,7 +42,7 @@ mimik edgeSDK is available for variety of platforms:
 - Tizen (3.0+)
 
 *Please note:*
-*For links which are not active yet, please send your request to support.sdk@mimik.com in order to receive the edgeSDK.*
+*For link(s) which is not active on this page yet, please send your request to support.sdk@mimik.com in order to receive the edgeSDK.*
 
 
 ### JavaScript Serverless Programming API
