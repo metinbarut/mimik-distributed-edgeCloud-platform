@@ -17,15 +17,18 @@ Our goal with this page is to provide you with a simple guideline in how to use 
 mimik edgeSDK is a downloadable software that developers can interact with through a series of API(s).  The system provides the following capabilities 
  
 edge cloud fabric:
+
 1. real-time device (node) discovery
 2. ad-hoc cluster formation of nodes
 3. communication between nodes within and across clusters, direct and indirect via on-demand dynamic instantiation of the intermediary nodes.
  
 light container as a runtime environment for microservice development and management on the edge device:
+
 4. light container for microservices
 5. remote microservice discovery
 6. remote microservice management
 7. ad-hoc cluster formation and communication at the microservice level
+
 
 mimik edgeSDK is available for variety of platforms:
 
