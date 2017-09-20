@@ -59,19 +59,19 @@ To show case the capabilities of the edgeSDK we have developed a few microservic
 #### mSuperdrive microservice:
 mSuperdrive microservice, provides API for media distribution use cases. By using mSuperdrive you can share, by streaming, any type of file/content on any node (edge or cloud node) to any other nodes across any type of network,  (Wi-Fi, LTE or 3G) and cluster account and proximity.
  
-Check out the mSuperdrive API(s) on SWAGGERhub @ https://app.swaggerhub.com/apis/mimik/mSuperdrive/
+[Check out the mSuperdrive API(s) on on SWAGGERhub](https://app.swaggerhub.com/apis/mimik/mSuperdrive/)
 
 
 #### mDrive microservice:
 mDrive microservice abstracts access to storage capability available on any edge node(s) and provides distributed file management. This microservice provides the same capability as cloud storage like google drive, Dropbox, and iCloud but with edge computing resources.  So this way your device turns into a cloud drive as long as you have the edgeSDK and mDrive on your device.  The API follows the same semantics as cloud storage providers which makes it super easy to use. So you simply, can deploy and use this microservice on any node that has storage including cloud node.
  
-Check out the mDrive API(s) on SWAGGERhub @ https://app.swaggerhub.com/apis/mimik/mDrive/
+[Check out the mDrive API(s) on SWAGGERhub](https://app.swaggerhub.com/apis/mimik/mDrive/)
 
 
 #### mBeam microservice:
 With mBeam you don’t have to copy your file/content in another storage but can simple send the link to your file on any node to another node. This way the receiver node utilizes the link to view your file/content off of your node while your file/content remains on sender node.  So no more duplicating your file/content across different cloud providers or social media.  You can simply pass the link to it for view and with addition of policy you can change the policy to download the content if that is required for the application business logic. 
  
-Check out the mBeam API(s) on SWAGGERhub https://app.swaggerhub.com/apis/mimik/mBeam/
+[Check out the mBeam API(s) on SWAGGERhub](https://app.swaggerhub.com/apis/mimik/mBeam/)
  
 
 
