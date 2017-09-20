@@ -59,7 +59,7 @@ To show case the capabilities of the edgeSDK we have developed a few microservic
 #### mSuperdrive microservice:
 mSuperdrive microservice, provides API for media distribution use cases. By using mSuperdrive you can share, by streaming, any type of file/content on any node (edge or cloud node) to any other nodes across any type of network,  (Wi-Fi, LTE or 3G) and cluster account and proximity.
  
-[Check out the mSuperdrive API(s) on on SWAGGERhub](https://app.swaggerhub.com/apis/mimik/mSuperdrive/)
+[Check out the mSuperdrive API(s) on SWAGGERhub](https://app.swaggerhub.com/apis/mimik/mSuperdrive/)
 
 
 #### mDrive microservice:
