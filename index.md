@@ -11,7 +11,7 @@ As a developer you can think of many different use cases utilizing edgeSDK witho
 Our goal with this page is to provide you with a simple guideline in how to use our SDK.  We continue evolving the solution and we are eager to receive your feedback as you are using the edgeSDK to enable your targeted SDK. 
 
 
-
+***
 #### edgeSDK
 
 mimik edgeSDK is a downloadable software that developers can interact with through a series of API(s).  The system provides the following capabilities 
