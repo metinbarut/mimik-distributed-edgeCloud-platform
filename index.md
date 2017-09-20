@@ -80,8 +80,10 @@ Check out the mBeam API(s) on SWAGGERhub https://app.swaggerhub.com/apis/mimik/m
 
 ### Support or Contact
 
-We want to hear from you.  Please contact us for question, troubleshooting, feedback or others. You can also read more about our solution on our wiki https://github.com/mimikgit/edgeMicroservices/wiki/ To contact our SDK support team send us an email to support.sdk@mimik.com.
-Check out our website at mimik.com to learn more about our company
+We want to hear from you.  Please contact us for question, troubleshooting, feedback or others. 
+You can also read more about our solution on our [wiki](https://github.com/mimikgit/edgeMicroservices/wiki/). 
+To contact our SDK support team send us an email to support.sdk@mimik.com.
+Check out our website at mimik.com to learn more about our company.
 
 
 *** 
