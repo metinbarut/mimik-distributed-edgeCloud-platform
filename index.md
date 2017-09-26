@@ -33,7 +33,7 @@ light container as a runtime environment for microservice development and manage
 mimik edgeSDK is available for variety of platforms:
 
 - Android (5.0+)
-- [iOS](https://github.com/mimikgit/edgeSDK-iOS) (9.0+)
+- iOS (9.0+)
 - Linux - Ubuntu (16.04+)
 - Linux - Debian
 - Linux - Raspbian (8.1+)
@@ -42,7 +42,7 @@ mimik edgeSDK is available for variety of platforms:
 - Tizen (3.0+)
 
 *Please note:*
-*For link(s) which is not active on this page yet, please send your request to support.sdk@mimik.com in order to receive the edgeSDK.*
+Please send your request to support.sdk@mimik.com in order to receive the edgeSDK.*
 
 
 ### JavaScript Serverless Programming API
