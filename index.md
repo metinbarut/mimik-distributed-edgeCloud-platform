@@ -78,6 +78,46 @@ With mBeam you don’t have to copy your file/content in another storage but can
 ***
 
 
+### mimik edge cloud API
+
+
+[mDS: mimik mDiscovery API](https://app.swaggerhub.com/apis/mimik/mDS/1.1.1) 
+
+[mPO: mimik Profiler Server API]( https://app.swaggerhub.com/apis/mimik/mPO/1.1.1 ) 
+
+[mSS: mimik Signalling Service API](https://app.swaggerhub.com/apis/mimik/mSS/1.1.0 )
+
+[mST:Server Token Serive API ](https://app.swaggerhub.com/apis/mimik/mST/1.0.0) 
+
+[mID:mimik ID and user management API ]( https://mid.mimik360.com/swagger/ui/index.html#/mID )
+
+ 
+***
+
+
+### mimik microservices API
+
+[mimik mSuperdrive API](https://app.swaggerhub.com/apis/mimik/mSuperdrive) 
+
+[mimik mDrive API](https://app.swaggerhub.com/apis/mimik/mDrive)
+
+[mimik mBeam API](https://app.swaggerhub.com/apis/mimik/mBeam)
+
+
+***
+
+
+### mimik access application API:
+[mFD: Friends Server API ] (https://app.swaggerhub.com/apis/mimik/mFD/1.1.0 )
+
+[mTS: Thumbnail Service API ] (https://app.swaggerhub.com/apis/mimik/mTS/1.1.0)
+
+[mTV: TV QrCode Service APII ] (https://app.swaggerhub.com/apis/mimik/mTV/1.0.0)
+
+
+***
+
+
 ### Support or Contact
 
 We want to hear from you.  Please contact us for question, troubleshooting, feedback or others. 
@@ -87,4 +127,5 @@ Check out our website at mimik.com to learn more about our company.
 
 
 *** 
+
 The information provided in this page is intended for informational purposes only and is subject to change without notice. Information may be changed or updated without notice. mimik may also make improvements and/or changes in the products specifications or APIs in this information at any time without notice.
