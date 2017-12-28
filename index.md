@@ -78,6 +78,27 @@ With mBeam you don’t have to copy your file/content in another storage but can
 ***
 
 
+### mimik API
+
+[mimik mSuperdrive API](https://app.swaggerhub.com/apis/mimik/mSuperdrive) 
+
+[mimik mDrive API](https://app.swaggerhub.com/apis/mimik/mDrive)
+
+[mimik mBeam API](https://app.swaggerhub.com/apis/mimik/mBeam)
+
+
+mimik edge cloud APIs: ( edgeSDK implements these APIs for services listed below)
+mDS : https://app.swaggerhub.com/apis/mimik/mDS/1.1.1 ( The mimik discovery API to discover edgeSDK based on network, account and/or proximity.)
+mPO : https://app.swaggerhub.com/apis/mimik/mPO/1.1.1 ( The mimik Profile Server API )
+mSS:  https://app.swaggerhub.com/apis/mimik/mSS/1.1.0 ( The mimik Signaling Service API )
+mST: https://app.swaggerhub.com/apis/mimik/mST/1.0.0 (The mimik server to server token service )
+mID : https://mid.mimik360.com/swagger/ui/index.html#/mID ( The mimik ID and user management API )
+ 
+
+[mimik mDiscovery API](https://app.swaggerhub.com/apis/mimik/mSuperdrive)  mimik mDiscovery API
+
+mimik mSignaling API
+
 ### Support or Contact
 
 We want to hear from you.  Please contact us for question, troubleshooting, feedback or others. 
